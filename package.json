@@ -1,0 +1,17 @@
+{
+  "name": "nacl-discord-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "ldesgoui <ldesgoui@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "steamid": "^1.1.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  }
+}
