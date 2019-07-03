@@ -1,3 +1,5 @@
 name = "nacl-discord-auth"
 type = "webpack"
-account_id = "99c7875fe037f303f2c98e2685045063"
+account_id = "c182d8b7f400b834f50ac81804642446"
+zone_id = "7a5cb4b512a6ca6c9a7f9fbfa9fab3e6"
+route = "https://nacl.gg/links/discord/auth*"
